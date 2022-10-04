@@ -1,4 +1,4 @@
-![Junior FrontEnd Developer](https://github.com/j4kk0b/j4kk0b/blob/main/baner.jpg)
+![Junior FrontEnd Developer](https://github.com/j4kk0b/j4kk0b/blob/main/baner.png)
 
 
 # Jakub Kozanecki
