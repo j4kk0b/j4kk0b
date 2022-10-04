@@ -1,6 +1,6 @@
 ### Hi there 👋, Jakub Kozanecki
 #### Junior FrontEnd Developer
-![Junior FrontEnd Developer](https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80)
+![Junior FrontEnd Developer](https://github.com/j4kk0b/j4kk0b/blob/main/baner.jpg)
 
 I'm Jakub from Poland, and I do content on Design and Development. I really enjoy learning languages and frameworks.
 
