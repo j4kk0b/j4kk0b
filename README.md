@@ -10,9 +10,11 @@ I'm Jakub from Poland, and I do content on Design and Development. I really enjo
 * Bootstrap
 * JavaScript
 * TypeScript
-* React => in progress...
+* React
+* Vue.js
 * Node.JS
-* Webpack
+* Webpack, Parcel
+* AJAX, JSON, REST
 * NPM
 * MVC
 
